@@ -17,7 +17,6 @@ section.filters
     height: 100%;
     width: 25%;
     text-align: left;
-    margin-left: 30px;
 }
 
 section.filters
@@ -30,6 +29,7 @@ section.filters
 .amenities h3 {
     font-weight: 600;
     margin-bottom: 0;
+    margin-left: 30px;
 }
 
 section.filters
@@ -38,6 +38,7 @@ section.filters
     font-weight: 400;
     font-size: 14px;
     margin-top: 0;
+    margin-left: 30px;
 }
 
 section button {
