@@ -3,8 +3,10 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    padding-left: 20px;
-    display: flex;
-    align-items: center;
     background-color: white;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 20px;
 }
+
+/* ADDING FOR TASK 4 */
