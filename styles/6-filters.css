@@ -9,6 +9,7 @@
     border-radius: 4px;
     padding-top: 20px;
     padding-bottom: 20px;
+    opacity: 1;
 }
 
 .popover li ul {
